@@ -2,6 +2,14 @@
 
 Miscellaneous datasets I've collected or prepared.
 
+## 2014draymwphd.txt
+
+Text file of my PhD thesis. Cite as `Dray, Matthew William (2014). Effects of multiple environmental stressors on litter chemical composition and decomposition. PhD thesis, Cardiff University.`
+
+The original rich text version including plots is available in PDF format from the [Cardiff University's Orca online portal](https://orca.cf.ac.uk/68365/).
+
+This dataset is available in the `dray` package (install with `devtool::install_github("dray")`) as `dray::phd`.
+
 ## ecofluxx_goals.csv
 
 Relationship between cards used in the tabletop game [EcoFluxx](http://www.looneylabs.com/games/ecofluxx), formatted for network vsualisation with [igraph](http://igraph.org/r/). Data entered manually.
