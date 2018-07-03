@@ -8,7 +8,7 @@ Text file of my PhD thesis. Cite as `Dray, Matthew William (2014). Effects of mu
 
 The original rich text version including plots is available in PDF format from the [Cardiff University's Orca online portal](https://orca.cf.ac.uk/68365/).
 
-This dataset is available in the `dray` package (install with `devtool::install_github("dray")`) as `dray::phd`.
+The full-text dataset is available in the `dray` package (install with `devtools::install_github("dray")`) as `dray::phd`.
 
 ## ecofluxx_goals.csv
 
@@ -22,7 +22,7 @@ Details of nearly 700 Pokemon I captured on [Pokemon Go](https://pokemongo.niant
 
 Used in [Beginner R and RStudio training](https://matt-dray.github.io/beginner-r-feat-pkmn/) in [this repo](https://github.com/matt-dray/beginner-r-feat-pkmn).
 
-This dataset is available in the `dray` package (install with `devtool::install_github("dray")`) as `dray::pkmn_go`.
+This dataset is available in the `dray` package (install with `devtools::install_github("dray")`) as `dray::pkmn_go`.
 
 ## pokedex_simple.csv
 
